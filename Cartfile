@@ -1,0 +1,6 @@
+github "Alamofire/Alamofire"
+github "DaveWoodCom/XCGLogger"
+github "ReactiveX/RxSwift"
+github "SVProgressHUD/SVProgressHUD"
+github "realm/realm-cocoa"
+github "scalessec/Toast-Swift" ~> 5.0.0
